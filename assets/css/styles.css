@@ -454,17 +454,17 @@ img{
     display: block;
     background-color: var(--first-color);
 }
-.skills__ROS{
+.skills__STATA{
     width: 65%;
 }
 .skills__python{
-    width: 70%;
+    width: 90%;
 }
 .skills__sdf{
     width: 80%;
 }
-.skills__cs{
-    width: 65%;
+.skills__office{
+    width: 90%;
 }
 .skills__math{
     width: 70%;
@@ -491,6 +491,19 @@ img{
 .skills__embeded{
     width: 60%;
 }
+skills__eng{
+    width: 95%;
+}
+skills__bz{
+    width: 85%;
+}
+skills__mand{
+    width: 40%;
+}
+skills__fr{
+    width: 75%;
+}
+
 
 .skills__close .skills__list{
     height: 0;
