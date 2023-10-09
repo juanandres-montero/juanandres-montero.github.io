@@ -183,7 +183,7 @@ img {
 @media screen and (mac-width: 767px){
   .nav__menu{
     position:fixed;
-    bottom:0;
+    bottom:-100%;
     left:0;
     width: 100%;
     background-color: var(--body-color);
@@ -227,7 +227,9 @@ font-weight: var(--font-medium);
   color:var(--first-color-alt)
 }
 /* show menu */
-
+.show-menu{
+  bottom: 0;
+}
 
 /* Active link */
 
