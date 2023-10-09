@@ -294,7 +294,7 @@ font-weight: var(--font-medium);
 }
 
 .home__scroll{
-
+  display: none;
 }
 
 .home__scroll-button{
@@ -330,6 +330,20 @@ font-weight: var(--font-medium);
   font-weight: var(--font-medium);
 }
 
+.button:hover{
+  background-color: var(--first-color-alt);
+}
+
+.button__icon{
+  font-size: 1.25rem;
+  margin-left: var(--mb-0-5);
+  transition: .3s;
+}
+
+.button--flex{
+  display: inline-flex;
+  align-items: center;
+}
 /*==================== ABOUT ====================*/
 
 
