@@ -161,7 +161,6 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
 }
 
 .nav__logo,
@@ -169,18 +168,21 @@ img {
   color: var(--title-color);
   font-weight: var(--font-medium);
 }
+
 .nav__logo:hover{
   color: var(--first-color);
-
 }
+
 .nav__toggle{
   font-size: 1.1rem;
   cursor: pointer;
 }
+
 .nav__toggle:hover{
   color: var(--first-color);
 }
-@media screen and (mac-width: 767px){
+
+@media screen and (max-width: 767px){
   .nav__menu{
     position:fixed;
     bottom:-100%;
