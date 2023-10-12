@@ -1,5 +1,5 @@
 # Welcome!.
-## [Go to website](https:https://juanandres-montero.github.io/)
+## [Go to website](https://juanandres-montero.github.io/)
 ### Personal Juan Andrés's Portfolio Website 
 - Includes a light and dark mode.
 - Developed first with the Mobile First methodology, then for desktop.
