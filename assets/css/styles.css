@@ -347,6 +347,7 @@ img{
 }
 
 .button--flex{
+    transition: .3s;
     display: inline-flex;
     align-items: center;
 }
