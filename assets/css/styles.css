@@ -1,4 +1,4 @@
-/*==================== GOOGLE FONTS ====================*/
+/*==================== GOO230footer__titleGLE FONTS ====================*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
 /*==================== VARIABLES CSS ====================*/
@@ -834,7 +834,7 @@ img{
 }
 
 .footer__title{
-    font-size: var(--h1-font-size);
+    font-size: var(--h2-font-size);
     margin-bottom: var(--mb-0-25);
 }
 
