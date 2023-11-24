@@ -7,6 +7,6 @@
 
 https://juanandres-montero.github.io/ 
 ![preview img](/preview.png)
-juanandres-montero
+Juan Andrés Montero
 
 Juan Andres Montero Zúñiga. all rights reserved
