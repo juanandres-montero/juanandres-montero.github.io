@@ -6,7 +6,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 https://juanandres-montero.github.io/ 
-![preview img](/preview.png)
+![juanandres-montero.github.io](/juanandres-montero.png)
 Juan Andrés Montero
 
 Juan Andres Montero Zúñiga. all rights reserved
