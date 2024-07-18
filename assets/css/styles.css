@@ -459,7 +459,7 @@ img{
     width: 65%;
 }
 .skills__python{
-    width: 90%;
+    width: 95%;
 }
 .skills__sdf{
     width: 80%;
@@ -503,6 +503,10 @@ img{
 }
 .skills__fr{
     width: 75%;
+}
+
+.skills__sp{
+    width: 100%;
 }
 
 
